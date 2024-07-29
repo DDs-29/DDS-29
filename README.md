@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanushi Dinelka</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate data analyst and UI designer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dds-29&label=Profile%20views&color=0e75b6&style=flat" alt="dds-29" /> </p>
 
